@@ -23,7 +23,9 @@
         <activity
             android:name=".SignUpActivity"
             android:theme="@style/AppTheme.Dark" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity"
+            android:theme="@style/AppTheme.Dark"
+            ></activity>
     </application>
 
 </manifest>
